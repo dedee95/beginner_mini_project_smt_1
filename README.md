@@ -1,2 +1,3 @@
 # beginner_mini_project_smt_1
-mini project dari matkul biokomputasi dasar
+
+Ini adalah mini project atau tugas akhir dari praktikum biokomputasi dasar semester 1 (2021). Mini project ini hanyalah dasar untuk memvalidasi apa yang telah di pelajari pada mata kuliah biokomputasi dasar.
